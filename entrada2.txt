@@ -1,0 +1,13 @@
+4
+U
+apple, banana, cherry
+cherry, date, elderberry
+I
+banana, cherry, date
+date, elderberry, fig
+D
+grape, honeydew, kiwi
+honeydew, kiwi, lemon
+C
+apple, banana, cherry
+cherry, date, elderberry
